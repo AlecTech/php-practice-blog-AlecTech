@@ -15,9 +15,9 @@ class Articles
 
 
     }
-
     public function output()
-    {       // Remember, anything OUTSIDE of PHP tags is echo'd!
+    {      
+        // Remember, anything OUTSIDE of PHP tags is echo'd!
             // This means the below will be output WhEN this method is called!
         ?>
             <dl>
